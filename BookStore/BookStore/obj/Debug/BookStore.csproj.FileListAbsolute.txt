@@ -1,0 +1,7 @@
+D:\AP\Exercise\Fourth\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\AP\Exercise\Fourth\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\AP\Exercise\Fourth\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\AP\Exercise\Fourth\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\AP\Exercise\Fourth\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\AP\Exercise\Fourth\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\AP\Exercise\Fourth\BookStore\BookStore\obj\Debug\BookStore.pdb

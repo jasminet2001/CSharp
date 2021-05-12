@@ -1,0 +1,7 @@
+D:\AP\Exercise\Fifth\Soduko\Soduko\bin\Debug\Soduko.exe.config
+D:\AP\Exercise\Fifth\Soduko\Soduko\bin\Debug\Soduko.exe
+D:\AP\Exercise\Fifth\Soduko\Soduko\bin\Debug\Soduko.pdb
+D:\AP\Exercise\Fifth\Soduko\Soduko\obj\Debug\Soduko.csprojAssemblyReference.cache
+D:\AP\Exercise\Fifth\Soduko\Soduko\obj\Debug\Soduko.csproj.CoreCompileInputs.cache
+D:\AP\Exercise\Fifth\Soduko\Soduko\obj\Debug\Soduko.exe
+D:\AP\Exercise\Fifth\Soduko\Soduko\obj\Debug\Soduko.pdb

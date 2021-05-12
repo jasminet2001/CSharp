@@ -1,0 +1,13 @@
+D:\AP\Exercise\Second\Third\Third\bin\Debug\netcoreapp3.1\Third.exe
+D:\AP\Exercise\Second\Third\Third\bin\Debug\netcoreapp3.1\Third.deps.json
+D:\AP\Exercise\Second\Third\Third\bin\Debug\netcoreapp3.1\Third.runtimeconfig.json
+D:\AP\Exercise\Second\Third\Third\bin\Debug\netcoreapp3.1\Third.runtimeconfig.dev.json
+D:\AP\Exercise\Second\Third\Third\bin\Debug\netcoreapp3.1\Third.dll
+D:\AP\Exercise\Second\Third\Third\bin\Debug\netcoreapp3.1\Third.pdb
+D:\AP\Exercise\Second\Third\Third\obj\Debug\netcoreapp3.1\Third.csprojAssemblyReference.cache
+D:\AP\Exercise\Second\Third\Third\obj\Debug\netcoreapp3.1\Third.AssemblyInfoInputs.cache
+D:\AP\Exercise\Second\Third\Third\obj\Debug\netcoreapp3.1\Third.AssemblyInfo.cs
+D:\AP\Exercise\Second\Third\Third\obj\Debug\netcoreapp3.1\Third.csproj.CoreCompileInputs.cache
+D:\AP\Exercise\Second\Third\Third\obj\Debug\netcoreapp3.1\Third.dll
+D:\AP\Exercise\Second\Third\Third\obj\Debug\netcoreapp3.1\Third.pdb
+D:\AP\Exercise\Second\Third\Third\obj\Debug\netcoreapp3.1\Third.genruntimeconfig.cache

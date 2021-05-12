@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soduko", "Soduko\Soduko.csproj", "{5AEB0A47-03C6-4EF0-BFC5-D43B3B17EAAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AEB0A47-03C6-4EF0-BFC5-D43B3B17EAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AEB0A47-03C6-4EF0-BFC5-D43B3B17EAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AEB0A47-03C6-4EF0-BFC5-D43B3B17EAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AEB0A47-03C6-4EF0-BFC5-D43B3B17EAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D8B2D39-D1F9-4BB5-8616-8D073D611FDD}
+	EndGlobalSection
+EndGlobal
