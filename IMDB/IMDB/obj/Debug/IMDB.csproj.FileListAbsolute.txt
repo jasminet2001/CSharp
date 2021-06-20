@@ -1,0 +1,7 @@
+D:\AP\Exercise\Seven\IMDB\IMDB\bin\Debug\IMDB.exe.config
+D:\AP\Exercise\Seven\IMDB\IMDB\bin\Debug\IMDB.exe
+D:\AP\Exercise\Seven\IMDB\IMDB\bin\Debug\IMDB.pdb
+D:\AP\Exercise\Seven\IMDB\IMDB\obj\Debug\IMDB.csproj.AssemblyReference.cache
+D:\AP\Exercise\Seven\IMDB\IMDB\obj\Debug\IMDB.csproj.CoreCompileInputs.cache
+D:\AP\Exercise\Seven\IMDB\IMDB\obj\Debug\IMDB.exe
+D:\AP\Exercise\Seven\IMDB\IMDB\obj\Debug\IMDB.pdb
