@@ -1,0 +1,13 @@
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.exe
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.deps.json
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.runtimeconfig.json
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.runtimeconfig.dev.json
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.dll
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.pdb
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.AssemblyInfoInputs.cache
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.AssemblyInfo.cs
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.csproj.CoreCompileInputs.cache
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.dll
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.pdb
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.genruntimeconfig.cache
+D:\AP\Exercise\Six\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.csproj.AssemblyReference.cache
